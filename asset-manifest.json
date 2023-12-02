@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/give-advice/static/css/main.ce746b4d.css",
+    "main.js": "/give-advice/static/js/main.b3c91de9.js",
+    "index.html": "/give-advice/index.html",
+    "main.ce746b4d.css.map": "/give-advice/static/css/main.ce746b4d.css.map",
+    "main.b3c91de9.js.map": "/give-advice/static/js/main.b3c91de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce746b4d.css",
+    "static/js/main.b3c91de9.js"
+  ]
+}
